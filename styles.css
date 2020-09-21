@@ -7636,9 +7636,11 @@ button.bg-dark:focus {
 
 .mt-5,
 .my-5 {
-  margin-top: 4rem !important;
+  margin-top: 5rem !important;
 }
 
+.mt-5_special {
+  margin-top: 1rem;}
 
 
 .mr-5,
