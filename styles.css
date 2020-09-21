@@ -10216,3 +10216,11 @@ header.masthead h1 {
     z-index: 1;
 }
 
+.ui-gradient-pink {
+    background: linear-gradient(0deg, #fd81b5 0%, #fd81b5 100%);
+}
+
+.ui-gradient-animator, .ui-gradient-pink, .ui-card.ui-gradient-pink {
+    color: rgba(255, 255, 255, 0.85);
+}
+
