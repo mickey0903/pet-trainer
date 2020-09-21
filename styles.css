@@ -10207,7 +10207,7 @@ header.masthead h1 {
     display: block;
     content: '';
     height: 100%;
-    background: url(https://download.stylin.app/assets/img/svg-layers/waves2.svg) top no-repeat;
+    background: url("https://download.stylin.app/assets/img/svg-layers/waves2.svg") top no-repeat;
     background-size: contain;
     position: absolute;
     top: -5px;
@@ -10218,6 +10218,7 @@ header.masthead h1 {
 
 .ui-gradient-pink {
     background: linear-gradient(0deg, #fd81b5 0%, #fd81b5 100%);
+
 }
 
 .ui-gradient-animator, .ui-gradient-pink, .ui-card.ui-gradient-pink {
