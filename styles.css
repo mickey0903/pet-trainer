@@ -7618,7 +7618,8 @@ button.bg-dark:focus {
 }
 
 .mb-4,
-.my-4 {
+.my-4 
+.youtube {
   margin-bottom: 1.5rem !important;
 }
 
@@ -9811,7 +9812,8 @@ button.bg-dark:focus {
   color: #fff !important;
 }
 
-.text-primary {
+.text-primary
+.youtube {
   color: #fece2a !important;
 }
 
