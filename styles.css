@@ -10267,6 +10267,11 @@ header.masthead h1 {
     text-align: left;
 }
 
+
+.btn-download {
+    padding-right: 1.5rem;
+}
+
 .btn {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, ".SFNSText-Regular", sans-serif;
     display: inline-block;
