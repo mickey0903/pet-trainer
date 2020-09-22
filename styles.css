@@ -10299,5 +10299,10 @@ header.masthead h1 {
 .b-description {
   color: #6c757d;
 }
-    
+
+.b-block{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
     
