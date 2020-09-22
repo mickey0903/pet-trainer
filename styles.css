@@ -10225,6 +10225,10 @@ header.masthead h1 {
     color: rgba(255, 255, 255, 0.85);
 }
 
+
+
+
+
 .btn:not(:disabled):not(.disabled) {
     cursor: pointer;
 }
@@ -10237,50 +10241,16 @@ header.masthead h1 {
     color: #fff;
 }
 
-.btn {
-    border-radius: 10px;
-}
+
 
 .btn-download {
     padding-right: 1.5rem;
-  
-  .btn-download {
-    position: relative;
-    padding-left: 4rem;
-    text-align: left;
-}
-  
- .btn {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, ".SFNSText-Regular", sans-serif;
-    display: inline-block;
-    font-size: 1rem;
-    padding: 1rem 2.5rem;
-    text-transform: uppercase;
-    letter-spacing: .03rem;
-    font-weight: bold;
-}
-}
-
-.btn-download {
     position: relative;
     padding-left: 4rem;
     text-align: left;
 }
 
 
-.btn-download {
-    padding-right: 1.5rem;
-}
-
-.btn {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, ".SFNSText-Regular", sans-serif;
-    display: inline-block;
-    font-size: 1rem;
-    padding: 1rem 2.5rem;
-    text-transform: uppercase;
-    letter-spacing: .03rem;
-    font-weight: bold;
-}
 
 .bg-pink, .ui-card.bg-pink, .ui-card.bg-pink .card-body p {
     color: rgba(255, 255, 255, 0.85);
