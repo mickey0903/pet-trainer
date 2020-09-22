@@ -9898,9 +9898,7 @@ a.text-dark:hover, a.text-dark:focus {
   color: rgba(255, 255, 255, 0.8) !important;
 }
 
-.text-deepgray {
-  color: #444053;
-}
+
   
 
 .text-hide {
@@ -9923,8 +9921,7 @@ a.text-dark:hover, a.text-dark:focus {
   color: inherit !important;
 }
 
-.text-margin {
-  maring-top: 1rem;
+
 
 .visible {
   visibility: visible !important;
