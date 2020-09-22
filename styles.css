@@ -10200,7 +10200,7 @@ header.masthead h1 {
 .ui-footer.ui-waves::after {
     left: -20%;
     right: -20%;
-    filter: drop-shadow(2px 4px 30px rgba(253, 129, 181, 0.5));
+    filter: drop-shadow(2px 4px 30px rgba(254, 206, 42, 0.5));
 }
 
 .ui-footer.ui-waves::after {
@@ -10217,7 +10217,7 @@ header.masthead h1 {
 }
 
 .ui-gradient-pink {
-    background: linear-gradient(0deg, #fd81b5 0%, #fd81b5 100%);
+    background: linear-gradient(0deg, #fece2a 0%, #fece2a 100%);
 
 }
 
