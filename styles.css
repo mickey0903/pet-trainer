@@ -9901,7 +9901,10 @@ a.text-dark:hover, a.text-dark:focus {
 .text-margin{
   margin-top: 1rem;
 }
-  
+
+.text-deepgray {
+  color : #343a40;
+}
 
 .text-hide {
   font: 0/0 a;
