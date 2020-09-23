@@ -19871,6 +19871,7 @@ button.bg-dark:focus {
     #mainNav .navbar-nav .nav-item .nav-link.active {
       color: #fece2a !important;
     }
+      
     @media (min-width: 992px) {
       #mainNav {
         box-shadow: none;
@@ -19910,8 +19911,9 @@ button.bg-dark:focus {
       #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
         color: #fece2a;
       }
-  
+      }
     
+      
     header.masthead {
       padding-top: 10rem;
       padding-bottom: calc(10rem - 4.5rem);
@@ -19945,6 +19947,7 @@ button.bg-dark:focus {
         font-size: 3rem;
       }
     }
+      
     @media (min-width: 1200px) {
       header.masthead h1 {
         font-size: 3.5rem;
